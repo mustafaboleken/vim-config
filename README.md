@@ -1,3 +1,3 @@
 # vim-config
 
-My minimal vim config for backup.
+My minimal vim config.
